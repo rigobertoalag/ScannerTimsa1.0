@@ -1,0 +1,1 @@
+ScannerTimsa1.0
